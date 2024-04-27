@@ -33,7 +33,7 @@
       "value": "",
       "required": false
     },
-    "DB_URI": {
+    "DATABASE_URL": {
       "description": "رابـط تخزيـن قاعـدة البيانـات مـن المـوقـع - https://customer.elephantsql.com/signup",
       "value": "",
       "required": false
