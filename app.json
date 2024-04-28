@@ -6,7 +6,7 @@
   "repository": "https://github.com/Zilzalll/lite",
   "website": "#TODO",
   "success_url": "#TODO",
-  "app": { "region": "europe" },
+  "region": "europe",
   "env": {
     "APP_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕لا تغيرهـا",
