@@ -6,6 +6,7 @@
   "repository": "https://github.com/Zilzalll/lite",
   "website": "#TODO",
   "success_url": "#TODO",
+  "app": { "region": "europe" },
   "env": {
     "APP_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕لا تغيرهـا",
@@ -34,12 +35,7 @@
       "required": false
     }
   },
-  "addons": [{
-    "plan": "heroku-postgresql:mini",
-    "options": {
-      "version": "16"
-    }
-  }],
+  "addons": ["heroku-postgresql:hobby-dev", "herokuconnect:demo"],
   "buildpacks": [{
     "url":"https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
   },{
