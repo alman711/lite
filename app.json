@@ -43,7 +43,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "standard-2x"
+      "size": "basic"
     }
   },
   "stack": "heroku-22"
