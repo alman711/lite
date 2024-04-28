@@ -34,7 +34,7 @@
       "required": false
     }
   },
-  "addons": ["heroku-postgresql:essential-mini"],
+  "addons": ["heroku-postgresql:essential"],
   "buildpacks": [{
     "url":"https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
   },{
