@@ -1,9 +1,9 @@
 {
-  "name": "𝗭𝗧𝗵𝗼𝗻",
-  "description": "〔 سـورس زدثــون 𝗭𝗧𝗵𝗼𝗻 〕افضـل سـورسـات تليثـون يـوزربـوت العربيـة : › عربـي بالكـامل › تحديثـات متواصـله › فـارات تلقـائيـه بسهولـه〔 حصريـاً 〕- مطـور السـورس : زلـزال ",
+  "name": "zadaon",
+  "description": "〔 سـورس زيد ـون 𝗭D𝗵𝗼𝗻افضـل سـورسـات تليثـون يـوزربـوت العربيـة : › عربـي بالكـامل › تحديثـات متواصـله › فـارات تلقـائيـه بسهولـه〔 حصريـاً 〕- مطـور السـورس : زيدون ل ",
   "logo": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/Zilzalll/lite",
+  "repository": "https://github.com/ alman711/lite",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -42,7 +42,7 @@
   }],
   "buildpacks": [
     {
-      "url": "https://github.com/Zilzalll/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/ alman711/heroku-buildpack-ffmpeg-latest"
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-google-chrome"
